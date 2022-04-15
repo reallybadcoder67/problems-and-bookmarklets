@@ -1,0 +1,1 @@
+javascript:function randomCase(value){x = 0;tmp="";for(var i = 0;i<value.length;i++){x=Math.floor(Math.random()*2);if(x==0){tmp+=value.charAt(i).toUpperCase();}else{tmp+=value.charAt(i).toLowerCase();}}return tmp;}arr = document.getElementsByTagName("*");for(var i = 0;i<arr.length;i++) {arr[i].style.fontFamily="Comic Sans MS"; }undefined;
