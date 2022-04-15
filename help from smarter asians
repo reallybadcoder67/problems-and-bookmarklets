@@ -1,0 +1,1 @@
+javascript:function changeGrades() {x=document.getElementsByClassName("mark"); y=document.getElementsByClassName("score"); for(var i = 0; i < x.length; i++){x[i].innerText="A+"; y[i].innerText="100%";}} changeGrades();
