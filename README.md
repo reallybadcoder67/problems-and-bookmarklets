@@ -20,3 +20,5 @@ help from smarter asians - does the same thing but 100%
 jank cookie clicker - jank cookie clicker  
   
 spammy google - google go brrrr  
+  
+spinny thing - website just spins around n shit  
