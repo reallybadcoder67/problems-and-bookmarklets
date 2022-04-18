@@ -13,6 +13,7 @@ comic sans - all the text on the current website becomes comic sans
 colorful cancer - makes the current website turn into colorful comic sans cancer-land  
 psychosis - colorful cancer but worse  
 aneurysm - psychosis but worse  
+insanity - aneurysm but worse  
   
 help from asians - only for synergy grade viewer, changes all grades to A's and A+'s temporarily  
 help from smarter asians - does the same thing but 100%  
