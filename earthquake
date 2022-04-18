@@ -1,0 +1,1 @@
+javascript:var arr = document.getElementsByTagName("*");setInterval(function(){for(var i = 0;i<arr.length;i++) {arr[i].style.transform="translate("+(Math.random()*10-5)+"px,"+(Math.random()*10-5)+"px)";}},100);
