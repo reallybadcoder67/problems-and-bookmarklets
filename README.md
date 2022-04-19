@@ -19,6 +19,7 @@ psychosis - colorful cancer but worse
 aneurysm - psychosis but worse  
 insanity - aneurysm but worse  
 shroom - ...you've already picked up the pattern, right?  
+lsd - i somehow made it worse again  
   
 help from asians - only for synergy grade viewer, changes all grades to A's and A+'s temporarily  
 help from smarter asians - does the same thing but 100%  
