@@ -1,7 +1,7 @@
 # problems-and-bookmarklets
 a bunch of bookmarklets i've made in class. most of them make me question my sanity.  
 I'm guessing that some of these go over the character limit on some browsers, but that's your fault, not mine, that you didn't use Chrome.  
-[Scroll down](https://github.com/reallybadcoder67/problems-and-bookmarklets/edit/main/README.md#how-to-use-the-bookmarklets) for instructions!
+[Scroll down](https://github.com/reallybadcoder67/problems-and-bookmarklets#how-to-use-the-bookmarklets) for instructions!
   
 # This currently includes:
   
