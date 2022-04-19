@@ -5,15 +5,11 @@ I'm guessing that some of these go over the character limit on some browsers, bu
   
 # This currently includes:
   
+### The epilepsy
 epilepsy - makes your current website flash black and white extremely rapidly   
 epilepsy 2.0 - does the same thing as epilepsy, but colorfully  
   
-comic sans - all the text on the current website becomes comic sans  
-  
-earthquake - everything does shaking  
-  
-brain damage - all the text on the current website becomes comic sans and randomcase (for some reason it hates certain websites and it breaks them)  
-  
+### The colorful cancer series (please help me)  
 colorful cancer - makes the current website turn into colorful comic sans cancer-land  
 psychosis - colorful cancer but worse  
 aneurysm - psychosis but worse  
@@ -21,11 +17,16 @@ insanity - aneurysm but worse
 shroom - ...you've already picked up the pattern, right?  
 lsd - i somehow made it worse again  
   
+### Miscellaneous website effects  
+comic sans - all the text on the current website becomes comic sans  
+earthquake - everything does shaking  
+brain damage - all the text on the current website becomes comic sans and randomcase (for some reason it hates certain websites and it breaks them)  
+spinny thing - website just spins around n shit  
+  
+### The academic integrity 
 help from asians - only for synergy grade viewer, changes all grades to A's and A+'s temporarily  
 help from smarter asians - does the same thing but 100%  
   
+### Others  
+spammy google - google go brrrr   
 jank cookie clicker - jank cookie clicker  
-  
-spammy google - google go brrrr  
-  
-spinny thing - website just spins around n shit  
