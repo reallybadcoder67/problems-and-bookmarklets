@@ -23,9 +23,10 @@ I'm guessing that some of these go over the character limit on some browsers, bu
 [brain damage](https://github.com/reallybadcoder67/problems-and-bookmarklets/blob/main/brain%20damage) - all the text on the current website becomes comic sans and randomcase (for some reason it hates certain websites and it breaks them)  
 [spinny thing](https://github.com/reallybadcoder67/problems-and-bookmarklets/blob/main/spinny%20thing) - website just spins around n shit  
   
-### The academic integrity 
+### The academics   
 [help from asians](https://github.com/reallybadcoder67/problems-and-bookmarklets/blob/main/help%20from%20asians) - only for synergy grade viewer, changes all grades to A's and A+'s temporarily  
 [help from smarter asians](https://github.com/reallybadcoder67/problems-and-bookmarklets/blob/main/help%20from%20smarter%20asians) - does the same thing but 100%  
+[bane of kahoot](https://github.com/reallybadcoder67/problems-and-bookmarklets/blob/main/bane%20of%20kahoot) - if you hate yourself and you want to play kahoot, use this   
   
 ### Others  
 [spammy google](https://github.com/reallybadcoder67/problems-and-bookmarklets/blob/main/spammy%20google) - google go brrrr   
