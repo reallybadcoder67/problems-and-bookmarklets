@@ -1,0 +1,1 @@
+javascript:var degrees = 0;var right = true;setInterval(function(){if(right){degrees+=90;}else{degrees-=90;} if(degrees==360){degrees=0;}if(degrees==-90){degrees = 270;} if(Math.random()<0.2){right = !right;}document.body.style.transform="rotate("+degrees+"deg)"},150);undefined;
